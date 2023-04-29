@@ -3,7 +3,7 @@ from Notes import Notes
 
 notes = Notes()
 
-bot = telebot.TeleBot('6235720959:AAFR3aXVkCigWehrPqLZ2RQscB4HVcDKJKg')
+bot = telebot.TeleBot('')
 
 
 def text_without_com(message):
